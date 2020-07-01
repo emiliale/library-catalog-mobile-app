@@ -8,7 +8,7 @@
 * [GUI](#gui)
 
 ## Project Assumptions
-The project concerns an application used to operate a public library catalog. The basic assumption is to develop a convenient system that allows browsing library catalogs. In addition, the application provides additional facilities in the form of notifications informing about the upcoming return dates of borrowed books or  system that locate library buildings. Thanks to a coherent system enabling cooperation with any public library in the Republic of Poland, the application will unify library catalogs and replace many completely different systems that are currently in use.
+The project concerns an application used to operate a public library catalog. The basic assumption is to develop a convenient system that allows browsing library catalogs. In addition, the application provides additional facilities in the form of notifications informing about the upcoming return dates of borrowed books or  system that locates library buildings. Thanks to a coherent system enabling cooperation with any public library in the Republic of Poland, the application will unify library catalogs and replace many completely different systems that are currently in use.
 
 ## Domain Model
 ![domain model](./images/domain.png)
